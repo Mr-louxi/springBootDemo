@@ -1,0 +1,4 @@
+2016-11-23 10:18:58,341 ERROR (webController.java:19)- Error Hello
+2016-11-23 10:18:58,345 WARN (webController.java:21)- Warn Hello
+2016-11-23 10:19:24,624 ERROR (webController.java:19)- Error Hello
+2016-11-23 10:19:24,625 WARN (webController.java:21)- Warn Hello

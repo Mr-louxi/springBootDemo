@@ -1,0 +1,16 @@
+2016-12-07 17:52:12,540 ERROR (webController.java:24)- Error Hello
+2016-12-07 17:52:12,544 WARN (webController.java:26)- Warn Hello
+2016-12-07 17:54:31,434 INFO (webController.java:22)- Info Hello
+2016-12-07 17:54:31,435 ERROR (webController.java:24)- Error Hello
+2016-12-07 17:54:31,436 WARN (webController.java:26)- Warn Hello
+2016-12-07 17:54:31,436 INFO (webController.java:27)- 开始调用jdbcTemplate
+2016-12-07 17:54:44,678 INFO (webController.java:30)- list:[{STU_ID=1, STU_NAME=小白, STU_AGE=11, STU_GENDER=男}, {STU_ID=2, STU_NAME=小红, STU_AGE=12, STU_GENDER=女}]
+2016-12-07 17:56:11,315 INFO (webController.java:22)- Info Hello
+2016-12-07 17:56:11,317 ERROR (webController.java:24)- Error Hello
+2016-12-07 17:56:11,318 WARN (webController.java:26)- Warn Hello
+2016-12-07 17:56:11,319 INFO (webController.java:27)- 开始调用jdbcTemplate
+2016-12-07 17:56:11,411 INFO (webController.java:30)- list:[{STUID=1, STUNAME=张三, STUAGE=18, CHECKNUM=112}]
+2016-12-07 18:09:31,254 INFO (webController.java:24)- Info Hello
+2016-12-07 18:09:31,255 ERROR (webController.java:26)- Error Hello
+2016-12-07 18:09:31,256 WARN (webController.java:28)- Warn Hello
+2016-12-07 18:09:31,256 INFO (webController.java:29)- 开始调用jdbcTemplate
