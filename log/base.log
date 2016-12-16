@@ -1,26 +1,10 @@
-2016-12-09 09:58:08,646 INFO (webController.java:25)- Info Hello
-2016-12-09 09:58:08,649 ERROR (webController.java:27)- Error Hello
-2016-12-09 09:58:08,649 WARN (webController.java:29)- Warn Hello
-2016-12-09 09:58:08,649 INFO (webController.java:30)- 开始调用jdbcTemplate
-2016-12-09 09:59:16,751 INFO (webController.java:25)- Info Hello
-2016-12-09 09:59:16,752 ERROR (webController.java:27)- Error Hello
-2016-12-09 09:59:16,753 WARN (webController.java:29)- Warn Hello
-2016-12-09 09:59:16,753 INFO (webController.java:30)- 开始调用jdbcTemplate
-2016-12-09 10:01:28,176 INFO (webController.java:25)- Info Hello
-2016-12-09 10:01:28,177 ERROR (webController.java:27)- Error Hello
-2016-12-09 10:01:28,178 WARN (webController.java:29)- Warn Hello
-2016-12-09 10:01:28,179 INFO (webController.java:30)- 开始调用jdbcTemplate
-2016-12-09 10:03:28,814 INFO (webController.java:25)- Info Hello
-2016-12-09 10:03:28,814 ERROR (webController.java:27)- Error Hello
-2016-12-09 10:03:28,814 WARN (webController.java:29)- Warn Hello
-2016-12-09 10:03:28,816 INFO (webController.java:30)- 开始调用jdbcTemplate
-2016-12-09 10:05:17,486 INFO (webController.java:25)- Info Hello
-2016-12-09 10:05:17,487 ERROR (webController.java:27)- Error Hello
-2016-12-09 10:05:17,487 WARN (webController.java:29)- Warn Hello
-2016-12-09 10:05:17,487 INFO (webController.java:30)- 开始调用jdbcTemplate
-2016-12-09 10:05:17,545 INFO (webController.java:32)- list:[springBootDemo.entity.TestStu@7ccc7a28]
-2016-12-09 10:05:52,309 INFO (webController.java:25)- Info Hello
-2016-12-09 10:05:52,311 ERROR (webController.java:27)- Error Hello
-2016-12-09 10:05:52,312 WARN (webController.java:29)- Warn Hello
-2016-12-09 10:05:52,312 INFO (webController.java:30)- 开始调用jdbcTemplate
-2016-12-09 10:05:52,744 INFO (webController.java:32)- list:[springBootDemo.entity.TestStu@14f4f3f3]
+2016-12-16 10:04:55,654 INFO (webController.java:24)- Info Hello
+2016-12-16 10:04:55,657 ERROR (webController.java:26)- Error Hello
+2016-12-16 10:04:55,658 WARN (webController.java:28)- Warn Hello
+2016-12-16 10:04:55,658 INFO (webController.java:29)- 开始调用jdbcTemplate
+2016-12-16 10:04:55,731 INFO (webController.java:31)- list:[springBootDemo.entity.TestStu@96a6eca, springBootDemo.entity.TestStu@4de0e1d6]
+2016-12-16 11:08:38,941 INFO (webController.java:24)- Info Hello
+2016-12-16 11:08:38,941 ERROR (webController.java:26)- Error Hello
+2016-12-16 11:08:38,942 WARN (webController.java:28)- Warn Hello
+2016-12-16 11:08:38,942 INFO (webController.java:29)- 开始调用jdbcTemplate
+2016-12-16 11:08:39,003 INFO (webController.java:31)- list:[springBootDemo.entity.TestStu@5ee2edee, springBootDemo.entity.TestStu@56423bf0]
