@@ -17,4 +17,16 @@ public class JspViewController {
 	public String form(){
 		return "form";
 	}
+	@RequestMapping("/tree")
+	public String tree(){
+		return "tree";
+	}
+	@RequestMapping("/treeBox")
+	public String treeBox(){
+		return "treeBox";
+	}
+	@RequestMapping("/demo")
+	public String demo(){
+		return "demo";
+	}
 }
